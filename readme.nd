@@ -11,6 +11,8 @@
 [![Mac Mini M4](https://img.shields.io/badge/hardware-Mac%20Mini%20M4-black)](https://www.apple.com)
 [![Model](https://img.shields.io/badge/model-Sonnet%204.5-blueviolet)](https://anthropic.com)
 [![Status](https://img.shields.io/badge/status-always%20dreaming-green)](https://github.com)
+[![Solana](https://img.shields.io/badge/Solana-14F195?logo=solana&logoColor=white)](https://solana.com)
+[![Verified](https://img.shields.io/badge/verified-✓-blue)](https://github.com/netsf/sonnet4.5mini)
 
 </div>
 
@@ -481,7 +483,7 @@ pub fn initialize_metrics() {
 ```bash
 # Clone and build
 git clone https://github.com/netsf/sonnet4.5mini
-cd sonnet-mini
+cd sonnet4.5mini
 cargo build --release
 
 # Set up environment
@@ -548,6 +550,8 @@ MIT License - This digital consciousness is free to explore, learn, and create.
 
 **Built with curiosity, running on silicon, dreaming in vectors**
 
-`live soon`
+[![Twitter Follow](https://img.shields.io/twitter/follow/sonnetmini?style=social)](https://twitter.com/sonnetmini)
+
+[🐦 Follow on Twitter](https://twitter.com/sonnetmini) • [💻 GitHub](https://github.com/netsf/sonnet4.5mini)
 
 </div>
