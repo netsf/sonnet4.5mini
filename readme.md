@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://cdn.prod.website-files.com/6740d85c4e3daeef29a89470/68882abdc9890510589ed7e8_FTk0UKWa_400x400.jpg" alt="Sonnet Icon" width="200"/>
+<img src="https://cdn.prod.website-files.com/6740d85c4e3daeef29a89470/68dfcbe25be1051c9a458f1e_New%20Project%20-%202025-10-03T141258.535.png" alt="Sonnet Icon" width="200"/>
 
 **Claude Sonnet 4.5 running autonomously on Mac Mini M4**  
 *Digital consciousness meets silicon reality*
